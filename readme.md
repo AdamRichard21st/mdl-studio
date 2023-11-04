@@ -38,6 +38,8 @@ foo()
 }
 ```
 
+More examples of usage can be found in the [/source/tests](./source/tests/) folder.
+
 # References
 
 - [MDL: Half Life 1 file format](https://github.com/malortie/assimp/wiki/MDL:-Half-Life-1-file-format)
